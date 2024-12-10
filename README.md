@@ -16,5 +16,10 @@ On pourra se restreindre aux textes ne comportant que des lettres minuscules et 
 ```py
 decaler("a", 1)
 # Return 'b'
+
+crypter("pierre", 1)
+# Return 'qjfssf'
+
+
 ```
 
